@@ -10,3 +10,9 @@
 [submodule "bag_utils"]
 	path = bag_utils
 	url = git@github.com:nimiCurtis/bag_utils.git
+[submodule "zion_msgs0"]
+	path = zion_msgs0
+	url = git@github.com:nimiCurtis/zion_msgs0.git
+[submodule "zion_msgs"]
+	path = zion_msgs
+	url = git@github.com:nimiCurtis/zion_msgs.git
